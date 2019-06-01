@@ -1,0 +1,14 @@
+{
+  "name": "discidium",
+  "version": "1.0.0",
+  "description": "Command framework for Discord.js",
+  "main": "index.js",
+  "repository": "git@github.com:Aiden01/discidium.git",
+  "author": "aiden01 <liangu@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.0.4",
+    "prettier": "^1.17.1",
+    "typescript": "^3.5.1"
+  }
+}
